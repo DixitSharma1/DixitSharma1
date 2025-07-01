@@ -1,4 +1,4 @@
-<!-- 🔥 Dixit – Full Power Developer README -->
+<!-- 🔥 Dixit – README -->
 <!-- Header Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=120&section=header"/>
@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Dixitkumar1&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dixitkumar1&theme=tokyonight" height="190"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=DixitSharma1&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DixitSharma1&theme=tokyonight" height="190"/>
 </div>
 
 ---
@@ -60,7 +60,7 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dixitkumar1&theme=onedark&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DixitSharma1&theme=onedark&row=2&column=3" />
 </p>
 
 ---
@@ -68,17 +68,17 @@
 ## 🌍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dixitkumar1&theme=dracula&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DixitSharma1&theme=dracula&area=true" />
 </p>
 
 ---
 
 ## 🐍 3D Contribution Snake
 
-![🐍 Contribution Snake](https://raw.githubusercontent.com/Dixitkumar1/Dixitkumar1/output/github-contribution-grid-snake.svg)
+![🐍 Contribution Snake](https://raw.githubusercontent.com/DixitSharma1/DixitSharma1/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://github.com/Dixitkumar1/Dixitkumar1/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/DixitSharma1/DixitSharma1/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/Gmail-dixitkhanda1@gmail.com-D14836?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://instagram.com/">
-    <!-- Add your IG link if needed -->
+    <!-- Add your Instagram link if needed -->
   </a>
 </p>
 
